@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+YOU CAN CALL THIS BOT AS🔥 @REQUEST_M0viz _Official Bot 🔥
 
 If you want to use this bot Dm @harshsoni_08 
 ❗️❗️Note:- ONLY PAID USE OF THIS BOT❗️❗️
@@ -14,7 +14,8 @@ If you want to use this bot Dm @harshsoni_08
 
 
 <b>Bot Commands - Works in Group only</b>
-(You need to be a Auth User in order to use these commands)
+     <b>YOU NEED TO TAKE PERMISSION
+     FROM OWNER TO USE THIS BOT🤣</b>
 
 <b>this Bot will automatically search for your files
        and give links to user😁</b>
@@ -23,7 +24,7 @@ If you want to use this bot Dm @harshsoni_08
 
 
     ABOUT_MSG = """
-⭕️<b>Creater :</b> @harshsoni_08
+⭕️<b>Creater :</b> @harshsoni_08 ❤️❤️❤️
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
