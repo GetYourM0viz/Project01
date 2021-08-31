@@ -177,7 +177,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("HELP", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/REQUEST_M0viz")]
+                [InlineKeyboardButton("⭕️🔥JOIN OUR MAIN GROUP🔥⭕️", url="https://t.me/REQUEST_M0viz")]
             ])
 
             await query.message.edit_text(
@@ -207,7 +207,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/jenishjk/AutoFilter.git")]
+                [InlineKeyboardButton("SOURCE CODE", url="https://t.me/REQUEST_M0viz")]
             ])
 
             await query.message.edit_text(
