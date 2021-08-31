@@ -3,8 +3,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-YOU CAN CALL THIS BOT AS🔥 @REQUEST_M0viz _Official Bot 🔥
+       THIS BOT IS
+🔥@REQUEST_M0viz _Official Bot🔥
 
+  JUST ENJOY THIS BOT SERVICE 😉
+   
 If you want to use this bot Dm @harshsoni_08 
 ❗️❗️Note:- ONLY PAID USE OF THIS BOT❗️❗️
 </b>"""
