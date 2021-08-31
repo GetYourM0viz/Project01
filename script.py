@@ -16,8 +16,8 @@ If you want to use this bot Dm @harshsoni_08
 <b>Bot Commands - Works in Group only</b>
 (You need to be a Auth User in order to use these commands)
 
-this Bot will automatically search for your files and give links to user😁
-
+<b>this Bot will automatically search for your files
+       and give links to user😁</b>
 
 <b>For PAID use Dm:- @harshsoni_08</b> """
 
