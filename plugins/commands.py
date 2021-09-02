@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR NETWORK ⭕️", url="https://t.me/REQUEST_M0viz")
+                            "🖤JOIN SUPPORT GROUP🖤", url="https://t.me/REQUEST_M0viz")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/Harshsoni_08")
+                            "💕DONATE US 💕", url="https://t.me/Harshsoni_08")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://t.me/Harshsoni_08")
+                            "SHARE OUR GROUP 🖤🤙", url="https://t.me/Harshsoni_08")
                     ]
                 ]
             ),
