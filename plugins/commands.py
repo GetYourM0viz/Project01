@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SHARE OUR GROUP 🖤🤙", url="https://t.me/Harshsoni_08")
+                            "SHARE OUR GROUP 🖤🤙", url="http://t.me/share/url?url=Hey%20There%E2%9D%A4%EF%B8%8F%2C%0A%20%0A%20I%20Found%20A%20Really%20Awesome%20Group%20%20For%20Searching%20Movies%20Hope%20You%20will%20Join%20This%20Group%20Too😁😁👍%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%0A%20%0A%20Group%20Sharing%20Username%20Link%20%3A-%20%40REQUEST_M0viz")
                     ]
                 ]
             ),
