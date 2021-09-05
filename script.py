@@ -1,7 +1,7 @@
 class script(object):
 
 
-    START_MSG = """ <b>HELLO 💕{}💕 WELCOME😉
+    START_MSG = """ <b>HI DEAR💕{}💕 WELCOME😉
 
        THIS BOT IS
 🔥@REQUEST_M0viz _Official Bot🔥
