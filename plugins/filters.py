@@ -62,7 +62,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="🦾RESULTS 1/1",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b>🔥CHECK RESULTS FOR:- </b>{message.text}<b>🛡️ @R_Mvz™ 🛡️ </b>",
+                f"<b>🔥YOUR REQUEST :- </b>{message.text}<b>🛡️ @AnyMovZ 🛡️ </b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
@@ -78,7 +78,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b>🔥CHECK RESULTS:-</b>{message.text}<b>🛡️ @R_Mvz 🛡️</b>",
+                f"<b>🔥CHECK RESULTS:-</b>{message.text}<b>🛡️ @AnyMovZ 🛡️</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
