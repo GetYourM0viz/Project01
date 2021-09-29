@@ -1,10 +1,21 @@
 class script(object):
 
 
-    START_MSG = """ <b>HI DEAR💕{}💕 WELCOME😉
-THIS BOT IS BELONGS TO 
+    START_MSG = """ <b>HEYY 🖤{ }🖤 ,
 
- <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳</a></b>"""
+WELCOME TO MY PM  
+
+I ONLY WORK FOR :~<a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳™</a></b>
+
+IF YOU FOUND ME IN OTHER GROUP ,
+
+         THAT MEANS THEY ARE 
+
+         PAYING ME FOR MY USE
+
+CHECK MY SERVICE AT:- <a href='https://t.me/REQUEST_M0viz/'>𝐇𝐄𝐑𝐄</a></b>
+
+THANK YOU ☺️</b>"""
 
     HELP_MSG = """<b>WHY NEED HELP ? 🧐
 
