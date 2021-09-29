@@ -6,15 +6,16 @@ THIS BOT IS BELONGS TO
 
  <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳</a></b>"""
 
-    HELP_MSG = """<b>You will not get any help here😁</b>
+    HELP_MSG = """<b>WHY NEED HELP ? 🧐
 
-<b>Bot Commands Works in Group only
-      YOU NEED TO TAKE PERMISSION
-     FROM OWNER TO USE NATASHA 😒</b>
+If you want to use me then message me 
 
-<b>this Bot will automatically search 
-      for your files
-and give links to user😁</b>
+⭕JOIN BACKUP⭕ :- <a href='https://t.me/GLOBAL_ENTERTAINMENT/'>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
+
+🔥MAIN GROUP🔥 :- <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳</a>
+
+MY SERVERS:- <a href='https://t.me/R_Mvz/'>𝐂𝐇𝐄𝐂𝐊 𝐇𝐄𝐑𝐄</a></b>
+
 <b>For PAID use MSG : <a href='https://t.me/harshsoni_08/'>𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍</a></b> """
 
 
