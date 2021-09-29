@@ -1,11 +1,11 @@
 class script(object):
 
 
-    START_MSG = """<b>HEYY 🖤{ }🖤 ,
+    START_MSG = """<b>HEYY 🖤{}🖤 ,
 
 WELCOME TO MY PM  
 
-I ONLY WORK FOR :~<a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳™</a>
+I ONLY WORK FOR- <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳™</a>
 
 IF YOU FOUND ME IN OTHER GROUP ,
 
