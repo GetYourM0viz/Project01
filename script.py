@@ -8,17 +8,13 @@ WELCOME TO MY PM
 I ONLY WORK FOR- <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳™</a>
 
 IF YOU FOUND ME IN OTHER GROUP ,
-
-         THAT MEANS THEY ARE 
-
-         PAYING ME FOR MY USE
-
+LEAVE THAT GROUP AND JOIN:- <a href='https://t.me/REQUEST_M0viz/'>𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳™</a>
 CHECK MY SERVICE AT:- <a href='https://t.me/REQUEST_M0viz/'>𝐇𝐄𝐑𝐄</a>
-
+PRESS 👉/help 👈 To know More about me 
 THANK YOU ☺️
 </b>"""
 
-    HELP_MSG = """<b>WHY NEED HELP ? 🧐
+    HELP_MSG = """<b>NEED HELP ?🙄
 
 If you want to use me then message me 
 
