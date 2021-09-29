@@ -2,32 +2,34 @@ class script(object):
 
 
     START_MSG = """ <b>HI DEAR💕{}💕 WELCOME😉
+THIS BOT IS
 
-       THIS BOT IS
-🔥@REQUEST_M0viz _Official Bot🔥
+<a href='https://t.me/REQUEST_M0viz/'> 🔥𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝟎𝐯𝐢𝐳 </a> _Official Bot🔥
 
-  JUST ENJOY THIS BOT SERVICE 😉
-   
-If you want to use this bot Dm @harshsoni_08 
-❗️❗️Note:- ONLY PAID USE OF THIS BOT❗️❗️
 </b>"""
+
 
 
     HELP_MSG = """<b>You will not get any help here😁</b>
 
 
-<b>Bot Commands - Works in Group only</b>
-     <b>YOU NEED TO TAKE PERMISSION
-     FROM OWNER TO USE THIS BOT🤣</b>
+<b>Bot Commands Works in Group only
+      YOU NEED TO TAKE PERMISSION
+     FROM OWNER TO USE NATASHA 😒</b>
 
-<b>this Bot will automatically search for your files
-       and give links to user😁</b>
+<b>this Bot will automatically search 
+      for your files
+and give links to user😁</b>
 
-<b>For PAID use Dm:- @harshsoni_08</b> """
+<b>For PAID use MSG : <a href='https://t.me/harshsoni_08/'>𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍
+
+ </a></b> """
 
 
     ABOUT_MSG = """
-⭕️<b>Creater : @harshsoni_08 ❤️❤️❤️</b>
+⭕️<b>Creater :<a href='https://t.me/harshsoni_08/'>𝚄𝙽𝙺𝙽𝙾𝚆𝙽 𝙽𝚄𝙼𝙱𝙴𝚁 </a>
+
+</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
